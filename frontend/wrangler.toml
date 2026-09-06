@@ -1,0 +1,8 @@
+name = "finealloys"
+compatibility_date = "2025-06-01"
+
+# Static React build output is served by Cloudflare Workers static assets.
+# SPA fallback ensures /about, /products, etc. work on direct visit & refresh.
+[assets]
+directory = "./dist"
+not_found_handling = "single-page-application"
