@@ -860,7 +860,7 @@ h1, h2, h3, h4 {
         rgba(7, 17, 34, 0.55) 46%,
         rgba(7, 17, 34, 0.08) 58%,
         rgba(7, 17, 34, 0) 66%),
-      url('/images/hero/hero-banner.png');
+      url('/images/hero/hero-banner.jpg');
     background-size: cover, contain;
     background-position: left center, right center;
     background-repeat: no-repeat, no-repeat;

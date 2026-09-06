@@ -20,7 +20,7 @@ export default function Process() {
         eyebrow="OUR PROCESS"
         lines={['Seven steps.', 'Zero shortcuts.']}
         lede="Every lot of aluminium scrap moves through the same disciplined process — so quality stays consistent and timelines stay honest."
-        bg="/images/hero/hero-banner.png"
+        bg="/images/hero/hero-banner.jpg"
         crumbs={[{ name: 'Our Process', path: '/process' }]}
       />
 

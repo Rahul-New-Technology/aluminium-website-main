@@ -25,7 +25,7 @@ export default function GetQuote() {
         eyebrow="GET A QUOTE"
         lines={['Tell us what', 'you have — or need']}
         lede="One form, one call or one WhatsApp message. That is all it takes to start."
-        bg="/images/hero/hero-banner.png"
+        bg="/images/hero/hero-banner.jpg"
         crumbs={[{ name: 'Get a Quote', path: '/get-a-quote' }]}
       />
 

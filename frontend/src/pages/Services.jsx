@@ -38,7 +38,7 @@ export default function Services() {
         eyebrow="OUR SERVICES"
         lines={['From scrap pickup', 'to refined supply']}
         lede="Nine connected services that move aluminium scrap from your gate to its next life — with one accountable team."
-        bg="/images/hero/hero-banner.png"
+        bg="/images/hero/hero-banner.jpg"
         crumbs={[{ name: 'Services', path: '/services' }]}
       />
 

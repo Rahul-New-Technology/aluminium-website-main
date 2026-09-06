@@ -16,7 +16,7 @@ export default function TermsConditions() {
         eyebrow="LEGAL"
         lines={['Terms & Conditions']}
         lede="The terms that govern use of this website and enquiries made through it. Last updated: July 2026."
-        bg="/images/hero/hero-banner.png"
+        bg="/images/hero/hero-banner.jpg"
         crumbs={[{ name: 'Terms & Conditions', path: '/terms-and-conditions' }]}
       />
       <section className="section">

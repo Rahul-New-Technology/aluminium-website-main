@@ -24,7 +24,7 @@ export default function Contact() {
         eyebrow="CONTACT US"
         lines={["Let's talk", 'aluminium']}
         lede="Call, WhatsApp, email or visit — whichever suits you. We respond during business hours."
-        bg="/images/hero/hero-banner.png"
+        bg="/images/hero/hero-banner.jpg"
         crumbs={[{ name: 'Contact Us', path: '/contact' }]}
       />
 

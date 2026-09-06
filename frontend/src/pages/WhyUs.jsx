@@ -20,7 +20,7 @@ export default function WhyUs() {
         eyebrow="WHY CHOOSE US"
         lines={['Built on quality,', 'trust and value']}
         lede="Eight reasons businesses across Maharashtra and India trust FINE ALLOYS with their aluminium scrap."
-        bg="/images/hero/hero-banner.png"
+        bg="/images/hero/hero-banner.jpg"
         crumbs={[{ name: 'Why Us', path: '/why-us' }]}
       />
 

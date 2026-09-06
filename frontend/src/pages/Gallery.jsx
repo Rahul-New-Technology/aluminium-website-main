@@ -19,7 +19,7 @@ export default function Gallery() {
         eyebrow="GALLERY"
         lines={['Inside our', 'operations']}
         lede="Aluminium scrap, sorting lines, processing, refining and dispatch — a working view of FINE ALLOYS, Thane."
-        bg="/images/hero/hero-banner.png"
+        bg="/images/hero/hero-banner.jpg"
         crumbs={[{ name: 'Gallery', path: '/gallery' }]}
       />
 

@@ -38,7 +38,7 @@ export default function Products() {
         eyebrow="OUR PRODUCTS"
         lines={['Aluminium scrap,', 'graded & ready']}
         lede="Ten categories of aluminium scrap and recycled material — sorted, graded and supplied on enquiry from Thane, Maharashtra."
-        bg="/images/hero/hero-banner.png"
+        bg="/images/hero/hero-banner.jpg"
         crumbs={[{ name: 'Products', path: '/products' }]}
       />
 

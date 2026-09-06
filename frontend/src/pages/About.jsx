@@ -27,7 +27,7 @@ export default function About() {
         eyebrow="ABOUT US"
         lines={['The people behind', 'the metal']}
         lede="FINE ALLOYS is a Thane-based aluminium scrap recycling, refining, processing and supply business serving industries across India."
-        bg="/images/hero/hero-banner.png"
+        bg="/images/hero/hero-banner.jpg"
         crumbs={[{ name: 'About Us', path: '/about' }]}
       />
 
